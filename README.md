@@ -53,7 +53,7 @@ Add image. -->
 
 - Open the terminal on your local computer.
 - Navigate to the parent directory of your preference.
-- Clone this project using `$ git clone https://github.com/johnwhittenstudio/PurrBnB.Solution`
+- Clone this project
 
 ### Scaffold and connect the database
 
